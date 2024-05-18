@@ -1,0 +1,24 @@
+body
+{
+  background-image:url("/images/HD-wallpaper-smriti-mandhana-cricketer-sports-uniform.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+form
+{
+  border:2px solid black;
+  text-align: center;
+  margin-top:300px;
+  background:#FFFFF7;
+}
+#yes{
+  height:30px;
+  width:90px;
+  background:green;
+}
+#no{
+  height: 30px;
+  width: 90px;
+  background:red;
+}
